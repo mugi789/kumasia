@@ -1,5 +1,5 @@
 
-# ./kumasia backdoor
+# ./kumasia simple backdoor
 ![penampakan](https://github.com/mugi789/kumasia/blob/main/screenshot.png?raw=true)
 ```
 Menu :
